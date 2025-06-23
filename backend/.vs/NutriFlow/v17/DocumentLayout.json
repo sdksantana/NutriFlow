@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.domain\\enums\\eusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|solutionrelative:src\\nutriflow.domain\\enums\\eusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\migrations\\nutriflowdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\migrations\\nutriflowdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\nutriflowdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\nutriflowdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\design\\nutriflowdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\design\\nutriflowdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|solutionrelative:src\\nutriflow.domain\\settings\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.application\\applicationservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|solutionrelative:src\\nutriflow.application\\applicationservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.application\\fluentresultsjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|solutionrelative:src\\nutriflow.application\\fluentresultsjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.application\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|solutionrelative:src\\nutriflow.application\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\nutriflow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\nutriflow.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -22,24 +78,8 @@
       "RelativeMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|solutionrelative:src\\nutriflow.application\\nutriflow.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\configurations\\corsconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\configurations\\corsconfigurationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\infrastructureservicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\repositories\\nutritionistpatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,10 +142,6 @@
       "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.domain\\enums\\eusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|solutionrelative:src\\nutriflow.domain\\enums\\eusertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.domain\\queries\\interfaces\\ipatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF712E53-9E78-4F42-B55F-B2864BA68945}|src\\NutriFlow.Domain\\NutriFlow.Domain.csproj|solutionrelative:src\\nutriflow.domain\\queries\\interfaces\\ipatientquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -160,10 +196,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.application\\handlers\\nutritionist\\addnutritionistrecipehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|solutionrelative:src\\nutriflow.application\\handlers\\nutritionist\\addnutritionistrecipehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.infrastructure\\nutriflowdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5337C2BC-14CB-4822-94F2-CC2621FE454C}|src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj|solutionrelative:src\\nutriflow.infrastructure\\nutriflowdbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -173,11 +205,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "NutritionistPatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Repositories\\NutritionistPatientRepository.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Repositories\\NutritionistPatientRepository.cs",
@@ -190,7 +222,202 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NutriFlowDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Migrations\\NutriFlowDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Migrations\\NutriFlowDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Migrations\\NutriFlowDbContextModelSnapshot.cs",
+              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\Migrations\\NutriFlowDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAG4CAAAAAAAAAAAkwMMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T20:04:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NutriFlowDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Design\\NutriFlowDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Design\\NutriFlowDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Design\\NutriFlowDbContextFactory.cs",
+              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\Design\\NutriFlowDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:59:49.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Settings\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Settings\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Settings\\JwtSettings.cs",
+              "RelativeToolTip": "src\\NutriFlow.Domain\\Settings\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:56:37.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfrastructureServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwHIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:25:31.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\NutriFlow.WebApi\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAzwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:33:18.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\NutriFlow.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T18:27:26.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EUserType.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Enums\\EUserType.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Enums\\EUserType.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Enums\\EUserType.cs",
+              "RelativeToolTip": "src\\NutriFlow.Domain\\Enums\\EUserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T22:45:59.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.json",
+              "RelativeToolTip": "src\\NutriFlow.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T18:24:09.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.Production.json",
+              "RelativeToolTip": "src\\NutriFlow.WebApi\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T19:28:50.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NutriFlowDbContext .cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
+              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T21:55:41.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\ApplicationServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Application\\ApplicationServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\ApplicationServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\NutriFlow.Application\\ApplicationServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:36:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FluentResultsJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\FluentResultsJsonConverter.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Application\\FluentResultsJsonConverter.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\FluentResultsJsonConverter.cs",
+              "RelativeToolTip": "src\\NutriFlow.Application\\FluentResultsJsonConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:36:23.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Application\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\ValidationBehavior.cs",
+              "RelativeToolTip": "src\\NutriFlow.Application\\ValidationBehavior.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:36:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NutriFlow.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
+              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T19:00:45.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\NutriFlow.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T18:24:26.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
@@ -203,46 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NutriFlow.Application",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\NutriFlow.Application.csproj",
-              "RelativeDocumentMoniker": "src\\NutriFlow.Application\\NutriFlow.Application.csproj",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\NutriFlow.Application.csproj",
-              "RelativeToolTip": "src\\NutriFlow.Application\\NutriFlow.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T19:01:09.486Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NutriFlow.Domain",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
-              "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
-              "RelativeToolTip": "src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T19:00:58.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NutriFlow.Infrastructure",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj*",
-              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-23T19:00:45.381Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "NutriFlow.WebApi",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj",
@@ -255,20 +443,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Program.cs",
-              "RelativeToolTip": "src\\NutriFlow.WebApi\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T18:27:26.21Z",
+              "DocumentIndex": 17,
+              "Title": "NutriFlow.Domain",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
+              "RelativeToolTip": "src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T19:00:58.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
+              "Title": "NutriFlow.Application",
+              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\NutriFlow.Application.csproj",
+              "RelativeDocumentMoniker": "src\\NutriFlow.Application\\NutriFlow.Application.csproj",
+              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\NutriFlow.Application.csproj",
+              "RelativeToolTip": "src\\NutriFlow.Application\\NutriFlow.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-23T19:01:09.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CorsConfigurationExtensions.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Configurations\\CorsConfigurationExtensions.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Configurations\\CorsConfigurationExtensions.cs",
@@ -280,45 +481,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "InfrastructureServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
-              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\InfrastructureServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T18:25:31.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.Development.json",
-              "RelativeToolTip": "src\\NutriFlow.WebApi\\appsettings.Development.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T18:24:26.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\appsettings.json",
-              "RelativeToolTip": "src\\NutriFlow.WebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-23T18:24:09.349Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "NutritionistQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Queries\\NutritionistQuery.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Queries\\NutritionistQuery.cs",
@@ -330,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "AddRecipeLinkHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Handlers\\NutritionistPatient\\AddRecipeLinkHandler.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Handlers\\NutritionistPatient\\AddRecipeLinkHandler.cs",
@@ -342,7 +505,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "DeleteNutritionistRecipeHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Handlers\\Nutritionist\\DeleteNutritionistRecipeHandler.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Handlers\\Nutritionist\\DeleteNutritionistRecipeHandler.cs",
@@ -354,7 +517,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 24,
               "Title": "DeleteRecipeLinkHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Handlers\\NutritionistPatient\\DeleteRecipeLinkHandler.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Handlers\\NutritionistPatient\\DeleteRecipeLinkHandler.cs",
@@ -366,7 +529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 26,
               "Title": "AddLinkRequest.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Requests\\NutritionistPatient\\AddLinkRequest.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Requests\\NutritionistPatient\\AddLinkRequest.cs",
@@ -378,7 +541,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 25,
               "Title": "AddRecipeLinkRequest.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Requests\\NutritionistPatient\\AddRecipeLinkRequest.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Requests\\NutritionistPatient\\AddRecipeLinkRequest.cs",
@@ -390,7 +553,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "NutritionistController.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Controllers\\NutritionistController.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Controllers\\NutritionistController.cs",
@@ -402,7 +565,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 29,
               "Title": "INutritionistPatientQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Queries\\Interfaces\\INutritionistPatientQuery.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Queries\\Interfaces\\INutritionistPatientQuery.cs",
@@ -414,7 +577,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 30,
               "Title": "NutritionistPatientRecipe.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Entities\\NutritionistPatientRecipe.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Entities\\NutritionistPatientRecipe.cs",
@@ -426,7 +589,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 31,
               "Title": "PatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Repositories\\PatientRepository.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Repositories\\PatientRepository.cs",
@@ -438,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "NutritionistRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Repositories\\NutritionistRepository.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Repositories\\NutritionistRepository.cs",
@@ -450,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "INutritionistQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Queries\\Interfaces\\INutritionistQuery.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Queries\\Interfaces\\INutritionistQuery.cs",
@@ -462,7 +625,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 33,
               "Title": "NutritionistPatientController.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Controllers\\NutritionistPatientController.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Controllers\\NutritionistPatientController.cs",
@@ -474,19 +637,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "EUserType.cs",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Enums\\EUserType.cs",
-              "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Enums\\EUserType.cs",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Enums\\EUserType.cs",
-              "RelativeToolTip": "src\\NutriFlow.Domain\\Enums\\EUserType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T22:45:59.723Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 34,
               "Title": "PatientController.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Controllers\\PatientController.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Controllers\\PatientController.cs",
@@ -498,7 +649,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "NutritionistPatientRecipe.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Tables\\NutritionistPatientRecipe.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Tables\\NutritionistPatientRecipe.cs",
@@ -510,7 +661,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "PatientQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Queries\\PatientQuery.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Queries\\PatientQuery.cs",
@@ -522,7 +673,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "RecipeResponse.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Queries\\Responses\\Patient\\RecipeResponse.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Queries\\Responses\\Patient\\RecipeResponse.cs",
@@ -534,7 +685,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "IPatientQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Queries\\Interfaces\\IPatientQuery.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Queries\\Interfaces\\IPatientQuery.cs",
@@ -546,7 +697,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 39,
               "Title": "DeleteRecipeLinkRequest.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Requests\\NutritionistPatient\\DeleteRecipeLinkRequest.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Requests\\NutritionistPatient\\DeleteRecipeLinkRequest.cs",
@@ -558,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 40,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\Controllers\\UserController.cs",
@@ -570,7 +721,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 41,
               "Title": "NutritionistProfileResponse.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Queries\\Responses\\Nutritionist\\NutritionistProfileResponse.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Queries\\Responses\\Nutritionist\\NutritionistProfileResponse.cs",
@@ -582,7 +733,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 42,
               "Title": "NutritionistPatientQuery.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\Queries\\NutritionistPatientQuery.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\Queries\\NutritionistPatientQuery.cs",
@@ -594,7 +745,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "AddPatientRecipeHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Handlers\\Patient\\AddPatientRecipeHandler.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Handlers\\Patient\\AddPatientRecipeHandler.cs",
@@ -606,7 +757,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 43,
               "Title": "DeletePatientRecipeHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Handlers\\Patient\\DeletePatientRecipeHandler.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Handlers\\Patient\\DeletePatientRecipeHandler.cs",
@@ -618,7 +769,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "INutritionistRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Repositories\\INutritionistRepository.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Repositories\\INutritionistRepository.cs",
@@ -630,7 +781,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "INutritionistPatientRepository.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\Repositories\\INutritionistPatientRepository.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\Repositories\\INutritionistPatientRepository.cs",
@@ -642,7 +793,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "DeletePatientRecipeRequest.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Requests\\Patient\\DeletePatientRecipeRequest.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Requests\\Patient\\DeletePatientRecipeRequest.cs",
@@ -654,7 +805,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "AddNutritionistRecipeHandler.cs",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\Handlers\\Nutritionist\\AddNutritionistRecipeHandler.cs",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\Handlers\\Nutritionist\\AddNutritionistRecipeHandler.cs",
@@ -663,18 +814,6 @@
               "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-22T22:00:07.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "NutriFlowDbContext .cs",
-              "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
-              "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
-              "ToolTip": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
-              "RelativeToolTip": "src\\NutriFlow.Infrastructure\\NutriFlowDbContext .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-22T21:55:41.449Z"
             }
           ]
         }
