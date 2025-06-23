@@ -1,0 +1,10 @@
+# Evita copiar dependências locais, builds e configs sensíveis
+node_modules/
+.env
+.cache/
+*.log
+*.sqlite
+
+# Opcional: se quiser evitar arquivos do Git e do editor
+.git
+.vscode

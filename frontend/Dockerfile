@@ -1,20 +1,13 @@
-# Etapa de build
 FROM node:20 AS build
 WORKDIR /app
 
-# Copia tudo
 COPY . .
 
-# Cria o .env com a URL da API em produção
-RUN echo "VITE_API_URL=https://..." > .env && npm install && npx vite build
+ARG VITE_API_URL
+ENV VITE_API_URL=$VITE_API_URL
 
-# Instala dependências
-RUN npm install
+RUN npm install && npm run build
 
-# Garante que o Vite está disponível e realiza o build
-RUN npx vite build
-
-# Etapa final: Nginx
 FROM nginx:stable-alpine
 COPY --from=build /app/dist /usr/share/nginx/html
 COPY nginx.conf /etc/nginx/conf.d/default.conf
