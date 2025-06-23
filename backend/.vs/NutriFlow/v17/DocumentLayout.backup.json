@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\nutriflow.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|solutionrelative:src\\nutriflow.webapi\\nutriflow.webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -17,9 +20,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.application\\nutriflow.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A7315CCB-10FC-4E98-82FA-7CD2ADF1582B}|src\\NutriFlow.Application\\NutriFlow.Application.csproj|solutionrelative:src\\nutriflow.application\\nutriflow.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EDDA1DF-315E-4B77-AF09-2661A87CD048}|src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj|c:\\users\\kaique\\source\\repos\\nutriflow\\backend\\src\\nutriflow.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -173,7 +173,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -190,20 +190,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Microsoft.NET.Sdk.DefaultItems.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.DefaultItems.targets",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAUwIUAAABNAAAAAAAAAA==",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAIYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2025-06-23T19:01:29.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "NutriFlow.Application",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Application\\NutriFlow.Application.csproj",
               "RelativeDocumentMoniker": "src\\NutriFlow.Application\\NutriFlow.Application.csproj",
@@ -216,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "NutriFlow.Domain",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
               "RelativeDocumentMoniker": "src\\NutriFlow.Domain\\NutriFlow.Domain.csproj",
@@ -229,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NutriFlow.Infrastructure",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
               "RelativeDocumentMoniker": "src\\NutriFlow.Infrastructure\\NutriFlow.Infrastructure.csproj",
@@ -242,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "NutriFlow.WebApi",
               "DocumentMoniker": "C:\\Users\\Kaique\\source\\repos\\NutriFlow\\backend\\src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj",
               "RelativeDocumentMoniker": "src\\NutriFlow.WebApi\\NutriFlow.WebApi.csproj",
