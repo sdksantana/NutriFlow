@@ -1,20 +1,22 @@
-# Build da aplicação
+# Etapa de build
 FROM node:20 AS build
 WORKDIR /app
 
+# Copia tudo
 COPY . .
 
-# Garante que o Vite use o .env.production
-ENV NODE_ENV=production
+# Usa o .env.production no lugar do .env
+RUN mv .env.production .env
 
+# Instala dependências
 RUN npm install
-RUN npm run build
 
-# Servidor Nginx
+# Garante que o Vite está disponível
+RUN npx vite build
+
+# Etapa final: Nginx
 FROM nginx:stable-alpine
 COPY --from=build /app/dist /usr/share/nginx/html
-
-# Copia o arquivo de configuração do nginx (opcional)
 COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 EXPOSE 80
