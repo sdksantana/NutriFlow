@@ -1,0 +1,59 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Rider (JetBrains)
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# appsettings sensíveis
+appsettings*.local.json
+appsettings.Development.json
+**/appsettings.Development.json
+
+# React/Node
+node_modules/
+**/node_modules/
+build/
+dist/
+.cache/
+.env.local
+.env.development
+.env.production
+
+# NuGet packages (restauráveis)
+**/packages/
+.nuget/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Others
+*.db
+*.sqlite
+
+#migrations/
+
+!backend/
+!frontend/

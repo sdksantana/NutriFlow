@@ -1,0 +1,33 @@
+export const fieldLabels = {
+  weight: "Peso",
+  neck: "Pescoço",
+  chest: "Tórax",
+  waist: "Cintura",
+  abdomen: "Abdômen",
+  hip: "Quadril",
+  rightArm: "Braço direito",
+  leftArm: "Braço esquerdo",
+  rightForearm: "Antebraço direito",
+  leftForearm: "Antebraço esquerdo",
+  rightThigh: "Coxa direita",
+  leftThigh: "Coxa esquerda",
+  rightCalf: "Panturrilha direita",
+  leftCalf: "Panturrilha esquerda",
+};
+
+export const mockMeasurements = [
+  { label: "Peso", initial: "106.1cm", current: "106.3cm", diff: "+0.2cm" },
+  { label: "Pescoço", initial: "36.9cm", current: "37.1cm", diff: "+0.2cm" },
+  { label: "Tórax", initial: "102.0cm", current: "102.4cm", diff: "+0.4cm" },
+  { label: "Cintura", initial: "91.4cm", current: "92.0cm", diff: "+0.6cm" },
+  { label: "Abdômen", initial: "97.0cm", current: "97.5cm", diff: "+0.5cm" },
+  { label: "Quadril", initial: "100.8cm", current: "101.2cm", diff: "+0.4cm" },
+  { label: "Braço direito", initial: "34.8cm", current: "35.0cm", diff: "+0.2cm" },
+  { label: "Braço esquerdo", initial: "33.3cm", current: "33.5cm", diff: "+0.2cm" },
+  { label: "Antebraço direito", initial: "29.6cm", current: "29.8cm", diff: "+0.2cm" },
+  { label: "Antebraço esquerdo", initial: "28.8cm", current: "29.0cm", diff: "+0.2cm" },
+  { label: "Coxa direita", initial: "59.5cm", current: "59.7cm", diff: "+0.2cm" },
+  { label: "Coxa esquerda", initial: "58.8cm", current: "59.0cm", diff: "+0.2cm" },
+  { label: "Panturrilha direita", initial: "36.5cm", current: "36.7cm", diff: "+0.2cm" },
+  { label: "Panturrilha esquerda", initial: "35.8cm", current: "36.0cm", diff: "+0.2cm" },
+];

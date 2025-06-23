@@ -1,0 +1,73 @@
+import { Recipe } from "../types/RecipeTypes";
+import { mockedFilterOptions as rawFilters } from "./mockedFilterOptions";
+
+const filters = rawFilters as Required<typeof rawFilters>;
+
+export const mockedRecipes: Recipe[] = [
+  {
+    id: "1",
+    name: "Omelete de Aveia",
+    description: "Misture todos os ingredientes e frite em fogo médio.",
+    preparationTime: filters.preparationTime[1],
+    calories: filters.calories[1],
+    protein: filters.protein[1],
+    fat: filters.fat[1],
+    carbs: filters.carbs[0],
+    meal: filters.meal[0],
+  },
+  {
+    id: "2",
+    name: "Frango Grelhado com Arroz",
+    description: "Grelhe o frango e sirva com arroz integral.",
+    preparationTime: filters.preparationTime[4],
+    calories: filters.calories[3],
+    protein: filters.protein[2],
+    fat: filters.fat[2],
+    carbs: filters.carbs[2],
+    meal: filters.meal[1],
+  },
+  {
+    id: "3",
+    name: "Marmita Fit",
+    description: "Inclui carne moída, legumes e arroz integral.",
+    preparationTime: filters.preparationTime[3],
+    calories: filters.calories[4],
+    protein: filters.protein[3],
+    fat: filters.fat[3],
+    carbs: filters.carbs[3],
+    meal: filters.meal[1],
+  },
+  {
+    id: "4",
+    name: "Janta Leve",
+    description: "Uma sopa de legumes com ovo cozido.",
+    preparationTime: filters.preparationTime[2],
+    calories: filters.calories[2],
+    protein: filters.protein[0],
+    fat: filters.fat[0],
+    carbs: filters.carbs[4],
+    meal: filters.meal[2],
+  },
+  {
+    id: "5",
+    name: "Pós-Treino Shake",
+    description: "Shake de banana com proteína isolada de soja.",
+    preparationTime: filters.preparationTime[0],
+    calories: filters.calories[5],
+    protein: filters.protein[2],
+    fat: filters.fat[4],
+    carbs: filters.carbs[5],
+    meal: filters.meal[4],
+  },
+  {
+    id: "6",
+    name: "Pré-Treino Energético",
+    description: "Tapioca com ovo e pasta de amendoim.",
+    preparationTime: filters.preparationTime[1],
+    calories: filters.calories[1],
+    protein: filters.protein[0],
+    fat: filters.fat[2],
+    carbs: filters.carbs[1],
+    meal: filters.meal[3],
+  },
+];

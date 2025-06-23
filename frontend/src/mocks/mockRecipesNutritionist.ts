@@ -1,0 +1,40 @@
+import { RecipeNutritionist } from "../types/RecipeTypes";
+
+export const mockRecipesNutritionist: RecipeNutritionist[] = [
+  {
+    id: "1",
+    name: "Omelete de Aveia",
+    preparationTime: { label: "10min", value: "10min" },
+    calories: { label: "100-199", value: "100-199" },
+    protein: { label: "11-20", value: "11-20" },
+    fat: { label: "6-10", value: "6-10" },
+    carbs: { label: "0-10", value: "0-10" },
+    meal: { label: "Café da Manhã", value: "Café da Manhã" },
+    description: "Bata os ovos com aveia e frite em frigideira antiaderente.",
+    patients: [{ id: "p1", name: "João" }, { id: "p2", name: "Maria" }],
+  },
+  {
+    id: "2",
+    name: "Frango Grelhado com Arroz",
+    preparationTime: { label: "30min", value: "30min" },
+    calories: { label: "300-399", value: "300-399" },
+    protein: { label: "21-30", value: "21-30" },
+    fat: { label: "11-15", value: "11-15" },
+    carbs: { label: "21-30", value: "21-30" },
+    meal: { label: "Almoço", value: "Almoço" },
+    description: "Grelhe o frango e sirva com arroz integral cozido.",
+    patients: [],
+  },
+  {
+    id: "3",
+    name: "Janta Leve",
+    preparationTime: { label: "15min", value: "15min" },
+    calories: { label: "200-299", value: "200-299" },
+    protein: { label: "0-10", value: "0-10" },
+    fat: { label: "0-5", value: "0-5" },
+    carbs: { label: "41-50", value: "41-50" },
+    meal: { label: "Janta", value: "Janta" },
+    description: "Salada de folhas com atum e azeite.",
+    patients: [{ id: "p3", name: "Carlos" }],
+  },
+];
