@@ -26,12 +26,14 @@ namespace Microsoft.Extensions.DependencyInjection
     {
         public static IServiceCollection AddInfrastructureServices(this IServiceCollection services, IConfiguration config)
         {
+            int.TryParse(Environment.GetEnvironmentVariable("JWT_EXPIRATION"), out var expiration);
+
             services.Configure<JwtSettings>(opts =>
             {
                 opts.Secret = Environment.GetEnvironmentVariable("JWT_SECRET")!;
                 opts.Issuer = Environment.GetEnvironmentVariable("JWT_ISSUER")!;
                 opts.Audience = Environment.GetEnvironmentVariable("JWT_AUDIENCE")!;
-                opts.ExpirationMinutes = int.Parse(Environment.GetEnvironmentVariable("JWT_EXPIRATION") ?? "120");
+                opts.ExpirationMinutes = expiration > 0 ? expiration : 120;
             });
 
             var jwtSettings = new JwtSettings
@@ -39,9 +41,8 @@ namespace Microsoft.Extensions.DependencyInjection
                 Secret = Environment.GetEnvironmentVariable("JWT_SECRET")!,
                 Issuer = Environment.GetEnvironmentVariable("JWT_ISSUER")!,
                 Audience = Environment.GetEnvironmentVariable("JWT_AUDIENCE")!,
-                ExpirationMinutes = int.Parse(Environment.GetEnvironmentVariable("JWT_EXPIRATION") ?? "120")
+                ExpirationMinutes = expiration > 0 ? expiration : 120
             };
-
 
             //var jwtSettings = config.GetSection("JwtSettings").Get<JwtSettings>();
 

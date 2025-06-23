@@ -22,4 +22,8 @@ COPY --from=build /app/publish .
 # Força ambiente Production
 ENV ASPNETCORE_ENVIRONMENT=Production
 
+# 👇 ESSAS DUAS LINHAS SÃO ESSENCIAIS NO RAILWAY
+ENV ASPNETCORE_URLS=http://+:8080
+EXPOSE 8080
+
 ENTRYPOINT ["dotnet", "NutriFlow.WebApi.dll"]
