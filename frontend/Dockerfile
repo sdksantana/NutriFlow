@@ -6,7 +6,7 @@ WORKDIR /app
 COPY . .
 
 # Cria o .env com a URL da API em produção
-RUN echo "VITE_API_URL=https://nutriflow-production.up.railway.app/api" > .env
+RUN echo "VITE_API_URL=https://..." > .env && npm install && npx vite build
 
 # Instala dependências
 RUN npm install

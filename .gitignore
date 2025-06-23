@@ -34,7 +34,6 @@ appsettings.Development.json
 node_modules/
 **/node_modules/
 build/
-dist/
 .cache/
 .env.local
 .env.development
