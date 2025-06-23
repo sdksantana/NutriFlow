@@ -1,7 +1,12 @@
 # Build da aplicação
 FROM node:20 AS build
 WORKDIR /app
+
 COPY . .
+
+# Garante que o Vite use o .env.production
+ENV NODE_ENV=production
+
 RUN npm install
 RUN npm run build
 
