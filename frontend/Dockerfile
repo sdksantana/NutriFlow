@@ -5,13 +5,13 @@ WORKDIR /app
 # Copia tudo
 COPY . .
 
-# Usa o .env.production no lugar do .env
-RUN mv .env.production .env
+# Cria o .env com a URL da API em produção
+RUN echo "VITE_API_URL=https://nutriflow-production.up.railway.app/api" > .env
 
 # Instala dependências
 RUN npm install
 
-# Garante que o Vite está disponível
+# Garante que o Vite está disponível e realiza o build
 RUN npx vite build
 
 # Etapa final: Nginx
