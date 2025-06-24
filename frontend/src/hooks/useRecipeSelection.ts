@@ -1,5 +1,3 @@
-// src/hooks/useRecipeSelection.ts
-
 import { useState } from "react";
 import { Recipe, RecipeWithLinks } from "../types/RecipeTypes";
 
@@ -13,7 +11,7 @@ export function useRecipeSelection(onRefresh: () => void) {
   const [openManagePatients, setOpenManagePatients] = useState(false);
 
   const openEdit = (recipe: Recipe) => {
-    setEditingRecipe(null); // Garante re-render
+    setEditingRecipe(null); 
     setTimeout(() => {
       setEditingRecipe({ ...recipe, _force: Date.now() });
     }, 0);
